@@ -15,7 +15,7 @@
 * ⏳ **Весна 2022**: https://classroom.github.com/classrooms/78114292-csc-java-course-spring-2022-classroom
 * ✔️ Весна 2021: https://classroom.github.com/classrooms/78114292-csc-java-course-spring-2021-classroom
 
-## Важные репозитории
+## Репозитории с задачами
 
 [Шаблон для добавления новых задач](../../../../csc-java-course-new-assignment-template). Он содержит инструкцию по добавлению новых задач в систему.
 
@@ -27,3 +27,7 @@
 - [Functional Java](https://github.com/csc-java-course/functional-java-template)
 - [Key-Value Store](https://github.com/csc-java-course/key-value-store-template)
 - [Thread Pool](https://github.com/csc-java-course/thread-pool-template)
+
+## Служебные репозитории
+
+- Инструменты для массовой обработки репозиториев студентов: https://github.com/csc-java-course/csc-java-course-classroom-utils
