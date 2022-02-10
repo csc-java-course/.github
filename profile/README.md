@@ -21,9 +21,9 @@
 
 Существующие задачи: 
 
-- [ArrayUtils](../../../../array-utils-template)
-- [BrainFuck](../../../../brainfuck-template)
-- [Collections](../../../../collections-template)
-- [Functional Java](../../../../functional-java-template)
-- [Key-Value Store](../../../../key-value-store-template)
-- [Thread Pool](../../../../thread-pool-template)
+- [ArrayUtils](https://github.com/csc-java-course/array-utils-template)
+- [BrainFuck](https://github.com/csc-java-course/brainfuck-template)
+- [Collections](https://github.com/csc-java-course/collections-template)
+- [Functional Java](https://github.com/csc-java-course/functional-java-template)
+- [Key-Value Store](https://github.com/csc-java-course/key-value-store-template)
+- [Thread Pool](https://github.com/csc-java-course/thread-pool-template)
