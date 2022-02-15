@@ -19,6 +19,8 @@
 
 [Шаблон для добавления новых задач](https://github.com/csc-java-course/csc-java-course-new-assignment-template). Он содержит инструкцию по добавлению новых задач в систему.
 
+[Задача-пример для демонстрации процесса сдачи](https://github.com/csc-java-course/csc-java-course-spring-2022-example-assignment-fedochet)
+
 Существующие задачи: 
 
 - [ArrayUtils](https://github.com/csc-java-course/array-utils-template)
